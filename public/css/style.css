@@ -1,0 +1,22 @@
+body {
+
+    background-color: chartreuse;
+    text-align: center;
+
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    margin: 0;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  button:hover {
+    background-color:darkgreen; 
+
+  }
